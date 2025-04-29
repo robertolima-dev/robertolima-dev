@@ -1,6 +1,6 @@
-# Olá, eu sou Roberto Lima! 👋
+# Roberto Lima
 
-Sou desenvolvedor especializado em Django e Django REST Framework (DRF).
+Desenvolvedor de software com mais de 10 anos de experiência em Python, JavaScript e TypeScript, além de seus principais frameworks.
 
 ## 🚀 Projeto em Destaque
 Confira meu projeto principal de estudos avançados em Django: [Django usecases](https://github.com/robertolima-dev/django-usecases)
