@@ -34,3 +34,7 @@ Sinta-se à vontade para contribuir ou sugerir melhorias em qualquer projeto!
 ## ⚡ Tecnologias que mais utilizo
 Python | Django | Django REST Framework | Postgres | Redis | Elasticsearch | Celery | JavaScript | Typescript | React/Next
 
+---
+
+[![Perfil PyPI](https://img.shields.io/badge/PyPI-Perfil%20RobertoLima-blue)](https://pypi.org/user/robertolima_dev/)
+
