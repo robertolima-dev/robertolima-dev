@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou Roberto Lima! 👋
 
-<!--
-**robertolima-dev/robertolima-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor especializado em Django e Django REST Framework (DRF).
 
-Here are some ideas to get you started:
+## 🚀 Projeto em Destaque
+Confira meu projeto principal de estudos avançados em Django: [Django usecases](https://github.com/robertolima-dev/django-usecases)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Entre em contato
+- [LinkedIn](https://www.linkedin.com/in/roberto-lima-01/)
+- [E-mail](mailto:robertolima.izphera@gmail.com)
+- [Website](https://robertolima-developer.vercel.app/)
+
+## ⚡ Tecnologias que mais utilizo
+- Python
+- Django
+- Django REST Framework
+- Postgres
+- Celery
+- Redis
+- Elasticsearch
