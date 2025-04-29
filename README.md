@@ -36,5 +36,6 @@ Python | Django | Django REST Framework | Postgres | Redis | Elasticsearch | Cel
 
 ---
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robertolima-dev&repo=django-usecases)](https://github.com/robertolima-dev/django-usecases)
 [![Perfil PyPI](https://img.shields.io/badge/PyPI-Perfil%20RobertoLima-blue)](https://pypi.org/user/robertolima_dev/)
 
