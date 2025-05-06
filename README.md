@@ -32,7 +32,12 @@ Contribuo ativamente com a comunidade Python através de pacotes open-source no 
 - **[SmartTestPy](https://pypi.org/project/SmartTestPy/)**<br>
   Biblioteca de testes inteligentes para Django, facilitando testes automatizados.<br>
   ![PyPI - Version](https://img.shields.io/pypi/v/SmartTestPy)
-  ![PyPI - Downloads](https://img.shields.io/pypi/dm/SmartTestPy)  
+  ![PyPI - Downloads](https://img.shields.io/pypi/dm/SmartTestPy)
+
+- **[SmartSecurityPy](https://pypi.org/project/SmartSecurityPy/)**<br>
+  Biblioteca de segurança como hash de senha, criptografia simétrica e validação de JWTs.<br>
+  ![PyPI - Version](https://img.shields.io/pypi/v/SmartSecurityPy)
+  ![PyPI - Downloads](https://img.shields.io/pypi/dm/SmartSecurityPy)  
 
 Sinta-se à vontade para contribuir ou sugerir melhorias em qualquer projeto!
 
