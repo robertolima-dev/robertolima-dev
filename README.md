@@ -52,6 +52,6 @@ Python | Django | DRF | PostgreSQL | Redis | Elasticsearch | Celery | JavaScript
 
 ---
 
-## 📚 Portugês
+## 📚 Português
 - 🇧🇷 [Clique aqui](README.pt-br.md)
 
