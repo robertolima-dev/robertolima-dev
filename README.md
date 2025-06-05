@@ -12,10 +12,6 @@ Check out my advanced Django study project:
 
 I actively contribute to the Python community via open-source packages on [PyPI](https://pypi.org/user/robertolima_dev/). Some of them:
 
-- **[SmartJsonPy](https://pypi.org/project/SmartJsonPy/)**  
-  JSON validation, cleaning, and advanced manipulation tool.  
-  ![PyPI - Version](https://img.shields.io/pypi/v/SmartJsonPy) ![PyPI - Downloads](https://img.shields.io/pypi/dm/SmartJsonPy)
-
 - **[excel_toolkit_for_py](https://pypi.org/project/excel_toolkit_for_py/)**  
   Powerful toolkit for Excel file manipulation and validation.  
   ![PyPI - Version](https://img.shields.io/pypi/v/excel_toolkit_for_py) ![PyPI - Downloads](https://img.shields.io/pypi/dm/excel_toolkit_for_py)
@@ -35,6 +31,10 @@ I actively contribute to the Python community via open-source packages on [PyPI]
 - **[SmartSecurityPy](https://pypi.org/project/SmartSecurityPy/)**  
   Security library for password hashing, encryption, and JWT validation.  
   ![PyPI - Version](https://img.shields.io/pypi/v/SmartSecurityPy) ![PyPI - Downloads](https://img.shields.io/pypi/dm/SmartSecurityPy)
+
+- **[SmartJsonPy](https://pypi.org/project/SmartJsonPy/)**  
+  JSON validation, cleaning, and advanced manipulation tool.  
+  ![PyPI - Version](https://img.shields.io/pypi/v/SmartJsonPy) ![PyPI - Downloads](https://img.shields.io/pypi/dm/SmartJsonPy)
 
 Feel free to contribute or open issues and suggestions!
 
