@@ -43,5 +43,27 @@ Sinta-se à vontade para contribuir ou sugerir melhorias!
 - [E-mail](mailto:robertolima.izphera@gmail.com)
 - [Website](https://robertolima-developer.vercel.app/)
 
+---
+
 ### ⚡ Tecnologias
-Python | Django | DRF | PostgreSQL | Redis | Elasticsearch | Celery | JavaScript | TypeScript | React/Next.js
+
+#### 🐍 **Python**
+
+* Django | Django REST Framework | Celery | FastAPI
+* PostgreSQL | Redis | Elasticsearch
+* Pytest | Poetry
+
+#### ⚙️ **JavaScript / TypeScript**
+
+* React | Next.js | Vue
+* Node.js | Express | Adonis | Nest
+
+#### 🦀 **Rust**
+
+* Actix Web | Cargo | Tokio *(estudo em andamento)*
+
+#### ☁️ **DevOps & Outros**
+
+* Docker | Docker Compose | GitHub Actions
+* AWS ECS | S3 | SES | SQS
+* OpenAI API | LangChain | n8n
