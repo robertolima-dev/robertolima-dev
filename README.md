@@ -55,8 +55,8 @@ Feel free to contribute or open issues and suggestions!
 
 #### ⚙️ **JavaScript / TypeScript**
 
-* React | Next.js | Node.js
-* TailwindCSS | Vite | Express
+* React | Next.js | Vue
+* Node.js | Express | Adonis | Nest
 
 #### 🦀 **Rust**
 
@@ -65,7 +65,7 @@ Feel free to contribute or open issues and suggestions!
 #### ☁️ **DevOps & Outros**
 
 * Docker | Docker Compose | GitHub Actions
-* AWS ECS | S3 | CloudWatch
+* AWS ECS | S3 | SES | SQS
 * OpenAI API | LangChain | n8n
 
 ---
