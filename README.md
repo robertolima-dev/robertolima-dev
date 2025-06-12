@@ -62,7 +62,7 @@ Feel free to contribute or open issues and suggestions!
 
 * Actix Web | Cargo | Tokio *(estudo em andamento)*
 
-#### ☁️ **DevOps & Outros**
+#### ☁️ **DevOps & Others**
 
 * Docker | Docker Compose | GitHub Actions
 * AWS ECS | S3 | SES | SQS
