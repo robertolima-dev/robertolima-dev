@@ -48,6 +48,40 @@ Python | Django | DRF | PostgreSQL | Redis | Elasticsearch | Celery | JavaScript
 
 ---
 
+Aqui está uma versão melhorada da seção `⚡ Technologies` do seu README, com:
+
+* Agrupamento por **linguagem**
+* Inclusão de **frameworks específicos**
+* Ícones via emoji para dar visual mais amigável
+* Inclusão de **Rust** e **Actix Web**, conforme solicitado
+
+Você pode colar isso no lugar da sua seção atual:
+
+---
+
+### ⚡ Technologies & Tools
+
+#### 🐍 **Python**
+
+* Django | Django REST Framework | Celery | FastAPI
+* PostgreSQL | Redis | Elasticsearch
+* Pytest | Poetry
+
+#### ⚙️ **JavaScript / TypeScript**
+
+* React | Next.js | Node.js
+* TailwindCSS | Vite | Express
+
+#### 🦀 **Rust**
+
+* Actix Web | Cargo | Tokio *(estudo em andamento)*
+
+#### ☁️ **DevOps & Outros**
+
+* Docker | Docker Compose | GitHub Actions
+* AWS ECS | S3 | CloudWatch
+* OpenAI API | LangChain | n8n
+
 [![PyPI Profile](https://img.shields.io/badge/PyPI-Perfil%20RobertoLima-blue)](https://pypi.org/user/robertolima_dev/)
 
 ---
