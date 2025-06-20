@@ -60,7 +60,7 @@ Feel free to contribute or open issues and suggestions!
 
 #### 🦀 **Rust**
 
-* Actix Web | Cargo | Tokio *(estudo em andamento)*
+* Actix Web | Cargo | Tokio
 
 #### ☁️ **DevOps & Others**
 
