@@ -8,6 +8,9 @@ Software developer with over 10 years of experience in Python, JavaScript, and T
 Check out my advanced Django study project:  
 👉 [Django usecases](https://github.com/robertolima-dev/django-usecases)
 
+Check out my advanced Rust study project:  
+👉 [Rust usecases](https://github.com/robertolima-dev/rust-usecases)
+
 ### 📦 My open-source packages on PyPI
 
 I actively contribute to the Python community via open-source packages on [PyPI](https://pypi.org/user/robertolima_dev/). Some of them:
