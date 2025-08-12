@@ -11,6 +11,9 @@ Check out my advanced Django study project:
 Check out my advanced Rust study project:  
 👉 [Rust usecases](https://github.com/robertolima-dev/rust-usecases)
 
+Check out my Blockchain Rust study project:  
+👉 [Rust blockchain](https://github.com/robertolima-dev/rust_blockchain)
+
 ### 📦 My open-source packages on PyPI
 
 I actively contribute to the Python community via open-source packages on [PyPI](https://pypi.org/user/robertolima_dev/). Some of them:
