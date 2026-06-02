@@ -4,6 +4,31 @@ Desenvolvedor backend com foco em Python e Django. Contribuo ativamente com proj
 ### 👨‍💻 Sobre Mim
 Desenvolvedor de software com mais de 10 anos de experiência em Python, JavaScript e TypeScript, além de seus principais frameworks.
 
+### 🏗️ Produtos que Construo
+
+#### 🔐 [ImmutableLog](https://immutablelog.com/en/) — *Fundador*
+Um **ledger criptográfico** privado e permissionado que transforma logs comuns de sistema em evidências invioláveis e verificáveis de forma independente. A **camada de evidência de auditoria** para times que precisam *provar* o que aconteceu — não apenas descrever.
+
+- 📜 **Ledger append-only** — eventos não podem ser editados ou apagados depois de registrados
+- 🔏 **Prova criptográfica** — hashing determinístico + verificação de inclusão em cada evento
+- 🕵️ **Verificação independente** — terceiros podem validar os registros sem confiar no operador
+- 🏢 **Privado por design** — os dados ficam no seu ambiente, sem blockchain pública
+- ⚙️ **Feito em Rust** — consenso distribuído entre nós do cluster; API REST com SDKs para Node.js, Python, Go e Java
+- 🎯 **Casos de uso** — governança de IA, SOC 2, ISO 27001, LGPD, detecção de ameaças internas e defesa jurídica
+
+> *"Seus logs explicam o que aconteceu. O ImmutableLog prova."*
+
+#### 🦀 [Memorust](https://memorust.vercel.app/en/) — *Criador*
+Um **banco de dados chave-valor em memória escrito em Rust**, com fins educacionais — um clone do Redis construído do zero, com foco em código limpo e legível.
+
+- 🔌 **Protocolo Redis (RESP)** — funciona com `redis-cli` e clientes Redis existentes, sem alterações
+- 🗃️ **Comandos essenciais** — SET/GET, DEL, EXISTS, além de TTL & expiração (SETEX, EXPIRE, TTL) com limpeza em background
+- 💾 **Persistência AOF** — escrita bufferizada, sync periódico e rewrite do AOF para manter o histórico compacto
+- ⚡ **Rápido** — ~155k ops/seg básico, até 264k SET / 1.27M GET ops/seg com pipelining
+- 🧱 **Stack enxuta** — Rust (edição 2024) + Tokio como única dependência, binário único, licença dupla MIT/Apache-2.0
+
+---
+
 ### 🚀 Projeto em Destaque
 Confira meu projeto principal de estudos avançados em Django:  
 👉 [Django usecases](https://github.com/robertolima-dev/django-usecases)
