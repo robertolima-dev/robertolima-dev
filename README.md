@@ -1,8 +1,8 @@
 # Roberto Lima
-Backend developer focused on Python and Django. I actively contribute to open-source projects and teach modern web technologies.
+Backend developer focused on Python and Rust. I actively contribute to open-source projects and teach modern web technologies.
 
 ### 👨‍💻 About Me
-Software developer with over 10 years of experience in Python, JavaScript, and TypeScript, plus their main frameworks.
+Software developer with over 10 years of experience in Python, Rust, JavaScript, and TypeScript, plus their main frameworks.
 
 ### 🏗️ Products I Build
 
@@ -26,6 +26,18 @@ An educational, in-memory **key-value database written in Rust** — a Redis clo
 - 💾 **AOF persistence** — buffered writes, periodic sync and AOF rewrite to keep history compact
 - ⚡ **Fast** — ~155k ops/sec basic, up to 264k SET / 1.27M GET ops/sec with pipelining
 - 🧱 **Minimal stack** — Rust (2024 edition) + Tokio as the only dependency, single binary, dual MIT/Apache-2.0
+
+#### ⚡ [rust-py-monitor](https://rust-py-monitor.vercel.app/) — *Creator*
+A **high-performance Python monitoring library with a Rust core** — drop-in middleware for FastAPI and Django that collects CPU, memory, and HTTP request metrics with minimal overhead.
+
+- 🦀 **Rust core via PyO3** — collection and aggregation run natively; users just `pip install`, no Rust toolchain needed
+- 📊 **Process snapshot** — CPU %, RSS memory, virtual memory, thread count and PID via the `sysinfo` crate
+- ⚡ **FastAPI & Django middleware** — captures method, path, status code and latency for every request
+- 📈 **p95 / p99 latency** — percentile calculation and error rate computed entirely in Rust
+- 🔥 **Prometheus export** — `/metrics` endpoint with 13 metrics, compatible with any Prometheus scraper
+- 📦 **Available on PyPI** — `pip install rust-py-monitor`
+
+> *"Python simplicity. Rust performance."*
 
 ---
 
