@@ -1,8 +1,8 @@
 # Roberto Lima
-Desenvolvedor backend com foco em Python e Django. Contribuo ativamente com projetos open-source e ensino tecnologias modernas para a web.
+Desenvolvedor backend com foco em Python e Rust. Contribuo ativamente com projetos open-source e ensino tecnologias modernas para a web.
 
 ### 👨‍💻 Sobre Mim
-Desenvolvedor de software com mais de 10 anos de experiência em Python, JavaScript e TypeScript, além de seus principais frameworks.
+Desenvolvedor de software com mais de 10 anos de experiência em Python, Rust, JavaScript e TypeScript, além de seus principais frameworks.
 
 ### 🏗️ Produtos que Construo
 
