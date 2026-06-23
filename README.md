@@ -2,7 +2,7 @@
 Backend developer focused on Python and Rust. I actively contribute to open-source projects and teach modern web technologies.
 
 ### 👨‍💻 About Me
-Software developer with over 10 years of experience in Python, Rust, JavaScript, and TypeScript, plus their main frameworks.
+Software developer with over 15 years of experience in Python, Rust, JavaScript, and TypeScript, plus their main frameworks.
 
 ### 🏗️ Products I Build
 
