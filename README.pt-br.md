@@ -56,11 +56,11 @@ Um **banco de dados chave-valor em memória escrito em Rust**, com fins educacio
 
 | Pacote | Descrição | Versão · Downloads |
 |:--|:--|:--|
-| **[rust-py-rate-limit](https://pypi.org/project/rust-py-rate-limit/)** | Rate limiting local rápido, com core em Rust | ![v](https://img.shields.io/pypi/v/rust-py-rate-limit?style=flat-square&color=3775A9) ![dl](https://img.shields.io/pypi/dm/rust-py-rate-limit?style=flat-square) |
-| **[rust-py-cache](https://pypi.org/project/rust-py-cache/)** | Cache local ultrarrápido, com core em Rust | ![v](https://img.shields.io/pypi/v/rust-py-cache?style=flat-square&color=3775A9) ![dl](https://img.shields.io/pypi/dm/rust-py-cache?style=flat-square) |
-| **[rust_py_scheduler](https://pypi.org/project/rust_py_scheduler/)** | Agendador de tarefas — jobs por intervalo & cron, retries | ![v](https://img.shields.io/pypi/v/rust_py_scheduler?style=flat-square&color=3775A9) ![dl](https://img.shields.io/pypi/dm/rust_py_scheduler?style=flat-square) |
-| **[rust-py-monitor](https://pypi.org/project/rust-py-monitor/)** | Monitoramento de alta performance para Django & FastAPI | ![v](https://img.shields.io/pypi/v/rust-py-monitor?style=flat-square&color=3775A9) ![dl](https://img.shields.io/pypi/dm/rust-py-monitor?style=flat-square) |
-| **[rust-py-audit](https://pypi.org/project/rust-py-audit/)** | Auditoria de eventos inviolável (hash chain), rápida | ![v](https://img.shields.io/pypi/v/rust-py-audit?style=flat-square&color=3775A9) ![dl](https://img.shields.io/pypi/dm/rust-py-audit?style=flat-square) |
+| **[rust-py-rate-limit](https://pypi.org/project/rust-py-rate-limit/)** | Rate limiting local rápido, com core em Rust | ![v](https://img.shields.io/pypi/v/rust-py-rate-limit?style=flat-square&color=3775A9) ![dl](https://static.pepy.tech/badge/rust-py-rate-limit/month) |
+| **[rust-py-cache](https://pypi.org/project/rust-py-cache/)** | Cache local ultrarrápido, com core em Rust | ![v](https://img.shields.io/pypi/v/rust-py-cache?style=flat-square&color=3775A9) ![dl](https://static.pepy.tech/badge/rust-py-cache/month) |
+| **[rust_py_scheduler](https://pypi.org/project/rust_py_scheduler/)** | Agendador de tarefas — jobs por intervalo & cron, retries | ![v](https://img.shields.io/pypi/v/rust_py_scheduler?style=flat-square&color=3775A9) ![dl](https://static.pepy.tech/badge/rust_py_scheduler/month) |
+| **[rust-py-monitor](https://pypi.org/project/rust-py-monitor/)** | Monitoramento de alta performance para Django & FastAPI | ![v](https://img.shields.io/pypi/v/rust-py-monitor?style=flat-square&color=3775A9) ![dl](https://static.pepy.tech/badge/rust-py-monitor/month) |
+| **[rust-py-audit](https://pypi.org/project/rust-py-audit/)** | Auditoria de eventos inviolável (hash chain), rápida | ![v](https://img.shields.io/pypi/v/rust-py-audit?style=flat-square&color=3775A9) ![dl](https://static.pepy.tech/badge/rust-py-audit/month) |
 
 #### 🦀 Powered by Rust · npm <sub>(napi-rs)</sub>
 
@@ -74,16 +74,16 @@ Um **banco de dados chave-valor em memória escrito em Rust**, com fins educacio
 
 | Pacote | Descrição | Versão · Downloads |
 |:--|:--|:--|
-| **[smart-time-py](https://pypi.org/project/smart-time-py/)** | Manipulação avançada de data & hora | ![v](https://img.shields.io/pypi/v/smart-time-py?style=flat-square&color=3775A9) ![dl](https://img.shields.io/pypi/dm/smart-time-py?style=flat-square) |
-| **[excel-toolkit-for-py](https://pypi.org/project/excel-toolkit-for-py/)** | Ler, manipular, validar e exportar arquivos Excel | ![v](https://img.shields.io/pypi/v/excel-toolkit-for-py?style=flat-square&color=3775A9) ![dl](https://img.shields.io/pypi/dm/excel-toolkit-for-py?style=flat-square) |
-| **[text-cleaner-for-py](https://pypi.org/project/text-cleaner-for-py/)** | Limpeza e normalização de texto | ![v](https://img.shields.io/pypi/v/text-cleaner-for-py?style=flat-square&color=3775A9) ![dl](https://img.shields.io/pypi/dm/text-cleaner-for-py?style=flat-square) |
-| **[SmartSecurityPy](https://pypi.org/project/SmartSecurityPy/)** | Hash de senha, criptografia e validação de JWT | ![v](https://img.shields.io/pypi/v/SmartSecurityPy?style=flat-square&color=3775A9) ![dl](https://img.shields.io/pypi/dm/SmartSecurityPy?style=flat-square) |
-| **[SmartJsonPy](https://pypi.org/project/SmartJsonPy/)** | Validação, limpeza e conversão inteligente de JSON | ![v](https://img.shields.io/pypi/v/SmartJsonPy?style=flat-square&color=3775A9) ![dl](https://img.shields.io/pypi/dm/SmartJsonPy?style=flat-square) |
-| **[SmartTestPy](https://pypi.org/project/SmartTestPy/)** | Framework de testes inteligente para Python | ![v](https://img.shields.io/pypi/v/SmartTestPy?style=flat-square&color=3775A9) ![dl](https://img.shields.io/pypi/dm/SmartTestPy?style=flat-square) |
-| **[SmartLogs](https://pypi.org/project/SmartLogs/)** | Logger com cores, saída em arquivo e níveis | ![v](https://img.shields.io/pypi/v/SmartLogs?style=flat-square&color=3775A9) ![dl](https://img.shields.io/pypi/dm/SmartLogs?style=flat-square) |
-| **[scrapy-html](https://pypi.org/project/scrapy-html/)** | Scraper de HTML retornando tags, classes e atributos | ![v](https://img.shields.io/pypi/v/scrapy-html?style=flat-square&color=3775A9) ![dl](https://img.shields.io/pypi/dm/scrapy-html?style=flat-square) |
-| **[TaskFlowPy](https://pypi.org/project/TaskFlowPy/)** | Gerenciador de tarefas simples e eficiente | ![v](https://img.shields.io/pypi/v/TaskFlowPy?style=flat-square&color=3775A9) ![dl](https://img.shields.io/pypi/dm/TaskFlowPy?style=flat-square) |
-| **[pdf-to-img-converter](https://pypi.org/project/pdf-to-img-converter/)** | Converte arquivos PDF em imagens | ![v](https://img.shields.io/pypi/v/pdf-to-img-converter?style=flat-square&color=3775A9) ![dl](https://img.shields.io/pypi/dm/pdf-to-img-converter?style=flat-square) |
+| **[smart-time-py](https://pypi.org/project/smart-time-py/)** | Manipulação avançada de data & hora | ![v](https://img.shields.io/pypi/v/smart-time-py?style=flat-square&color=3775A9) ![dl](https://static.pepy.tech/badge/smart-time-py/month) |
+| **[excel-toolkit-for-py](https://pypi.org/project/excel-toolkit-for-py/)** | Ler, manipular, validar e exportar arquivos Excel | ![v](https://img.shields.io/pypi/v/excel-toolkit-for-py?style=flat-square&color=3775A9) ![dl](https://static.pepy.tech/badge/excel-toolkit-for-py/month) |
+| **[text-cleaner-for-py](https://pypi.org/project/text-cleaner-for-py/)** | Limpeza e normalização de texto | ![v](https://img.shields.io/pypi/v/text-cleaner-for-py?style=flat-square&color=3775A9) ![dl](https://static.pepy.tech/badge/text-cleaner-for-py/month) |
+| **[SmartSecurityPy](https://pypi.org/project/SmartSecurityPy/)** | Hash de senha, criptografia e validação de JWT | ![v](https://img.shields.io/pypi/v/SmartSecurityPy?style=flat-square&color=3775A9) ![dl](https://static.pepy.tech/badge/SmartSecurityPy/month) |
+| **[SmartJsonPy](https://pypi.org/project/SmartJsonPy/)** | Validação, limpeza e conversão inteligente de JSON | ![v](https://img.shields.io/pypi/v/SmartJsonPy?style=flat-square&color=3775A9) ![dl](https://static.pepy.tech/badge/SmartJsonPy/month) |
+| **[SmartTestPy](https://pypi.org/project/SmartTestPy/)** | Framework de testes inteligente para Python | ![v](https://img.shields.io/pypi/v/SmartTestPy?style=flat-square&color=3775A9) ![dl](https://static.pepy.tech/badge/SmartTestPy/month) |
+| **[SmartLogs](https://pypi.org/project/SmartLogs/)** | Logger com cores, saída em arquivo e níveis | ![v](https://img.shields.io/pypi/v/SmartLogs?style=flat-square&color=3775A9) ![dl](https://static.pepy.tech/badge/SmartLogs/month) |
+| **[scrapy-html](https://pypi.org/project/scrapy-html/)** | Scraper de HTML retornando tags, classes e atributos | ![v](https://img.shields.io/pypi/v/scrapy-html?style=flat-square&color=3775A9) ![dl](https://static.pepy.tech/badge/scrapy-html/month) |
+| **[TaskFlowPy](https://pypi.org/project/TaskFlowPy/)** | Gerenciador de tarefas simples e eficiente | ![v](https://img.shields.io/pypi/v/TaskFlowPy?style=flat-square&color=3775A9) ![dl](https://static.pepy.tech/badge/TaskFlowPy/month) |
+| **[pdf-to-img-converter](https://pypi.org/project/pdf-to-img-converter/)** | Converte arquivos PDF em imagens | ![v](https://img.shields.io/pypi/v/pdf-to-img-converter?style=flat-square&color=3775A9) ![dl](https://static.pepy.tech/badge/pdf-to-img-converter/month) |
 
 #### 🟨 Utilitários JavaScript / Node · npm
 
