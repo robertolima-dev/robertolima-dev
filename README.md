@@ -1,8 +1,25 @@
 # Roberto Lima
-Backend developer focused on Python and Rust. I actively contribute to open-source projects and teach modern web technologies.
+
+**Software developer — Python & Rust.** I build production software and open-source libraries, and teach modern web technologies.
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-robertolima.vercel.app-FF6900?logo=vercel&logoColor=white)](https://robertolima.vercel.app/)
+[![PyPI](https://img.shields.io/badge/PyPI-robertolima__dev-3775A9?logo=pypi&logoColor=white)](https://pypi.org/user/robertolima_dev/)
+[![npm](https://img.shields.io/badge/npm-robertolima--dev-CB3837?logo=npm&logoColor=white)](https://www.npmjs.com/~robertolima-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-roberto--lima-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-lima-01/)
+[![Email](https://img.shields.io/badge/Email-contact-EA4335?logo=gmail&logoColor=white)](mailto:robertolima.izphera@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=robertolima-dev&color=9747ff&label=Profile+views)
+
+</div>
 
 ### 👨‍💻 About Me
-Software developer with over 15 years of experience in Python, Rust, JavaScript, and TypeScript, plus their main frameworks.
+
+Software developer with **12+ years of experience** across Python, Rust, JavaScript and TypeScript and their main frameworks — from scalable APIs and AI integrations to web, mobile and high-performance open-source libraries. I care about clean, readable code and shipping things people actually use.
+
+`Rust` · `Python` · `TypeScript` · `Next.js` · `Django` · `FastAPI` · `AWS`
+
+---
 
 ### 🏗️ Products I Build
 
@@ -27,96 +44,99 @@ An educational, in-memory **key-value database written in Rust** — a Redis clo
 - ⚡ **Fast** — ~155k ops/sec basic, up to 264k SET / 1.27M GET ops/sec with pipelining
 - 🧱 **Minimal stack** — Rust (2024 edition) + Tokio as the only dependency, single binary, dual MIT/Apache-2.0
 
-#### ⚡ [rust-py-monitor](https://rust-py-monitor.vercel.app/) — *Creator*
-A **high-performance Python monitoring library with a Rust core** — drop-in middleware for FastAPI and Django that collects CPU, memory, and HTTP request metrics with minimal overhead.
-
-- 🦀 **Rust core via PyO3** — collection and aggregation run natively; users just `pip install`, no Rust toolchain needed
-- 📊 **Process snapshot** — CPU %, RSS memory, virtual memory, thread count and PID via the `sysinfo` crate
-- ⚡ **FastAPI & Django middleware** — captures method, path, status code and latency for every request
-- 📈 **p95 / p99 latency** — percentile calculation and error rate computed entirely in Rust
-- 🔥 **Prometheus export** — `/metrics` endpoint with 13 metrics, compatible with any Prometheus scraper
-- 📦 **Available on PyPI** — `pip install rust-py-monitor`
-
 > *"Python simplicity. Rust performance."*
 
 ---
 
-### 🚀 Featured Project
-Check out my advanced Django study project:  
-👉 [Django usecases](https://github.com/robertolima-dev/django-usecases)
+### 📦 Open-Source Packages
 
-Check out my advanced Rust study project:  
-👉 [Rust usecases](https://github.com/robertolima-dev/rust-usecases)
+**23 packages** published on [PyPI](https://pypi.org/user/robertolima_dev/) and [npm](https://www.npmjs.com/~robertolima-dev) — from performance-critical Rust cores to everyday utilities. Contributions, issues and suggestions are always welcome!
 
-Check out my Blockchain Rust study project:  
-👉 [Rust blockchain](https://github.com/robertolima-dev/rust_blockchain)
+#### 🦀 Powered by Rust · PyPI <sub>(PyO3 + maturin)</sub>
 
-### 📦 My open-source packages on PyPI
+| Package | Description | Version · Downloads |
+|:--|:--|:--|
+| **[rust-py-rate-limit](https://pypi.org/project/rust-py-rate-limit/)** | Fast local rate limiting, powered by Rust | ![v](https://img.shields.io/pypi/v/rust-py-rate-limit?style=flat-square&color=3775A9) ![dl](https://img.shields.io/pypi/dm/rust-py-rate-limit?style=flat-square) |
+| **[rust-py-cache](https://pypi.org/project/rust-py-cache/)** | Ultra-fast local cache, powered by Rust | ![v](https://img.shields.io/pypi/v/rust-py-cache?style=flat-square&color=3775A9) ![dl](https://img.shields.io/pypi/dm/rust-py-cache?style=flat-square) |
+| **[rust_py_scheduler](https://pypi.org/project/rust_py_scheduler/)** | Performant task scheduler — interval & cron jobs, retries | ![v](https://img.shields.io/pypi/v/rust_py_scheduler?style=flat-square&color=3775A9) ![dl](https://img.shields.io/pypi/dm/rust_py_scheduler?style=flat-square) |
+| **[rust-py-monitor](https://pypi.org/project/rust-py-monitor/)** | High-performance monitoring for Django & FastAPI | ![v](https://img.shields.io/pypi/v/rust-py-monitor?style=flat-square&color=3775A9) ![dl](https://img.shields.io/pypi/dm/rust-py-monitor?style=flat-square) |
+| **[rust-py-audit](https://pypi.org/project/rust-py-audit/)** | Fast, tamper-evident event auditing (hash chain) | ![v](https://img.shields.io/pypi/v/rust-py-audit?style=flat-square&color=3775A9) ![dl](https://img.shields.io/pypi/dm/rust-py-audit?style=flat-square) |
 
-I actively contribute to the Python community via open-source packages on [PyPI](https://pypi.org/user/robertolima_dev/). Some of them:
+#### 🦀 Powered by Rust · npm <sub>(napi-rs)</sub>
 
-- **[excel_toolkit_for_py](https://pypi.org/project/excel_toolkit_for_py/)**  
-  Powerful toolkit for Excel file manipulation and validation.  
-  ![PyPI - Version](https://img.shields.io/pypi/v/excel_toolkit_for_py) ![PyPI - Downloads](https://img.shields.io/pypi/dm/excel_toolkit_for_py)
+| Package | Description | Version · Downloads |
+|:--|:--|:--|
+| **[rust-node-monitor](https://www.npmjs.com/package/rust-node-monitor)** | Lightweight Node.js monitoring, powered by Rust | ![v](https://img.shields.io/npm/v/rust-node-monitor?style=flat-square&color=CB3837) ![dl](https://img.shields.io/npm/dm/rust-node-monitor?style=flat-square) |
+| **[rust-node-rate-limit](https://www.npmjs.com/package/rust-node-rate-limit)** | Ultra-fast rate limiting for Node.js | ![v](https://img.shields.io/npm/v/rust-node-rate-limit?style=flat-square&color=CB3837) ![dl](https://img.shields.io/npm/dm/rust-node-rate-limit?style=flat-square) |
+| **[rust-node-cache](https://www.npmjs.com/package/rust-node-cache)** | Ultra-fast in-memory cache for Node.js | ![v](https://img.shields.io/npm/v/rust-node-cache?style=flat-square&color=CB3837) ![dl](https://img.shields.io/npm/dm/rust-node-cache?style=flat-square) |
 
-- **[text_cleaner_for_py](https://pypi.org/project/text_cleaner_for_py/)**  
-  Handy package for advanced text cleaning and normalization.  
-  ![PyPI - Version](https://img.shields.io/pypi/v/text_cleaner_for_py) ![PyPI - Downloads](https://img.shields.io/pypi/dm/text_cleaner_for_py)
+#### 🐍 Python utilities · PyPI
 
-- **[scrapy_html](https://pypi.org/project/scrapy_html/)**  
-  Simplifies HTML scraping with flexible tag and class search.  
-  ![PyPI - Version](https://img.shields.io/pypi/v/scrapy_html) ![PyPI - Downloads](https://img.shields.io/pypi/dm/scrapy_html)
+| Package | Description | Version · Downloads |
+|:--|:--|:--|
+| **[smart-time-py](https://pypi.org/project/smart-time-py/)** | Advanced date & time manipulation | ![v](https://img.shields.io/pypi/v/smart-time-py?style=flat-square&color=3775A9) ![dl](https://img.shields.io/pypi/dm/smart-time-py?style=flat-square) |
+| **[excel-toolkit-for-py](https://pypi.org/project/excel-toolkit-for-py/)** | Read, manipulate, validate and export Excel files | ![v](https://img.shields.io/pypi/v/excel-toolkit-for-py?style=flat-square&color=3775A9) ![dl](https://img.shields.io/pypi/dm/excel-toolkit-for-py?style=flat-square) |
+| **[text-cleaner-for-py](https://pypi.org/project/text-cleaner-for-py/)** | Text cleaning and normalization utilities | ![v](https://img.shields.io/pypi/v/text-cleaner-for-py?style=flat-square&color=3775A9) ![dl](https://img.shields.io/pypi/dm/text-cleaner-for-py?style=flat-square) |
+| **[SmartSecurityPy](https://pypi.org/project/SmartSecurityPy/)** | Password hashing, encryption and JWT utilities | ![v](https://img.shields.io/pypi/v/SmartSecurityPy?style=flat-square&color=3775A9) ![dl](https://img.shields.io/pypi/dm/SmartSecurityPy?style=flat-square) |
+| **[SmartJsonPy](https://pypi.org/project/SmartJsonPy/)** | Smart JSON validation, cleaning and conversion | ![v](https://img.shields.io/pypi/v/SmartJsonPy?style=flat-square&color=3775A9) ![dl](https://img.shields.io/pypi/dm/SmartJsonPy?style=flat-square) |
+| **[SmartTestPy](https://pypi.org/project/SmartTestPy/)** | An intelligent testing framework for Python | ![v](https://img.shields.io/pypi/v/SmartTestPy?style=flat-square&color=3775A9) ![dl](https://img.shields.io/pypi/dm/SmartTestPy?style=flat-square) |
+| **[SmartLogs](https://pypi.org/project/SmartLogs/)** | Smart logger with colors, file output and levels | ![v](https://img.shields.io/pypi/v/SmartLogs?style=flat-square&color=3775A9) ![dl](https://img.shields.io/pypi/dm/SmartLogs?style=flat-square) |
+| **[scrapy-html](https://pypi.org/project/scrapy-html/)** | HTML scraper returning tags, classes and attributes | ![v](https://img.shields.io/pypi/v/scrapy-html?style=flat-square&color=3775A9) ![dl](https://img.shields.io/pypi/dm/scrapy-html?style=flat-square) |
+| **[TaskFlowPy](https://pypi.org/project/TaskFlowPy/)** | A simple, efficient task manager for Python | ![v](https://img.shields.io/pypi/v/TaskFlowPy?style=flat-square&color=3775A9) ![dl](https://img.shields.io/pypi/dm/TaskFlowPy?style=flat-square) |
+| **[pdf-to-img-converter](https://pypi.org/project/pdf-to-img-converter/)** | Convert PDF files into images | ![v](https://img.shields.io/pypi/v/pdf-to-img-converter?style=flat-square&color=3775A9) ![dl](https://img.shields.io/pypi/dm/pdf-to-img-converter?style=flat-square) |
 
-- **[SmartTestPy](https://pypi.org/project/SmartTestPy/)**  
-  Smart Django testing library for quick automated test creation.  
-  ![PyPI - Version](https://img.shields.io/pypi/v/SmartTestPy) ![PyPI - Downloads](https://img.shields.io/pypi/dm/SmartTestPy)
+#### 🟨 JavaScript / Node utilities · npm
 
-- **[SmartSecurityPy](https://pypi.org/project/SmartSecurityPy/)**  
-  Security library for password hashing, encryption, and JWT validation.  
-  ![PyPI - Version](https://img.shields.io/pypi/v/SmartSecurityPy) ![PyPI - Downloads](https://img.shields.io/pypi/dm/SmartSecurityPy)
+| Package | Description | Version · Downloads |
+|:--|:--|:--|
+| **[cpf-cnpj-email-validator](https://www.npmjs.com/package/cpf-cnpj-email-validator)** | Validators for Brazilian CPF, CNPJ and email | ![v](https://img.shields.io/npm/v/cpf-cnpj-email-validator?style=flat-square&color=CB3837) ![dl](https://img.shields.io/npm/dm/cpf-cnpj-email-validator?style=flat-square) |
+| **[currency-br](https://www.npmjs.com/package/currency-br)** | Brazilian Real (R$) currency formatting and parsing | ![v](https://img.shields.io/npm/v/currency-br?style=flat-square&color=CB3837) ![dl](https://img.shields.io/npm/dm/currency-br?style=flat-square) |
+| **[address-br](https://www.npmjs.com/package/address-br)** | Brazilian address utilities — lookup and formatting | ![v](https://img.shields.io/npm/v/address-br?style=flat-square&color=CB3837) ![dl](https://img.shields.io/npm/dm/address-br?style=flat-square) |
+| **[calc-array](https://www.npmjs.com/package/calc-array)** | Helpers to compute values over arrays | ![v](https://img.shields.io/npm/v/calc-array?style=flat-square&color=CB3837) ![dl](https://img.shields.io/npm/dm/calc-array?style=flat-square) |
+| **[calc-simple-npm](https://www.npmjs.com/package/calc-simple-npm)** | A simple calculator module for everyday arithmetic | ![v](https://img.shields.io/npm/v/calc-simple-npm?style=flat-square&color=CB3837) ![dl](https://img.shields.io/npm/dm/calc-simple-npm?style=flat-square) |
 
-- **[SmartJsonPy](https://pypi.org/project/SmartJsonPy/)**  
-  JSON validation, cleaning, and advanced manipulation tool.  
-  ![PyPI - Version](https://img.shields.io/pypi/v/SmartJsonPy) ![PyPI - Downloads](https://img.shields.io/pypi/dm/SmartJsonPy)
+---
 
-Feel free to contribute or open issues and suggestions!
+### 🚀 Study Projects
 
-### 📫 Contact
-- [LinkedIn](https://www.linkedin.com/in/roberto-lima-01/)
-- [Email](mailto:robertolima.izphera@gmail.com)
-- [Website](https://robertolima.vercel.app/)
+- 👉 [**Django usecases**](https://github.com/robertolima-dev/django-usecases) — advanced Django study project
+- 👉 [**Rust usecases**](https://github.com/robertolima-dev/rust-usecases) — advanced Rust study project
+- 👉 [**Rust blockchain**](https://github.com/robertolima-dev/rust_blockchain) — blockchain built in Rust
 
 ---
 
 ### ⚡ Technologies & Tools
 
-#### 🐍 **Python**
+**🐍 Python** — Django · Django REST Framework · Celery · FastAPI · PostgreSQL · Redis · Elasticsearch · Pytest · Poetry
 
-* Django | Django REST Framework | Celery | FastAPI
-* PostgreSQL | Redis | Elasticsearch
-* Pytest | Poetry
+**⚙️ JavaScript / TypeScript** — React · Next.js · Vue · Node.js · Express · NestJS · Adonis
 
-#### ⚙️ **JavaScript / TypeScript**
+**🦀 Rust** — Tokio · Actix Web · PyO3 · napi-rs · Cargo
 
-* React | Next.js | Vue
-* Node.js | Express | Adonis | Nest
-
-#### 🦀 **Rust**
-
-* Actix Web | Cargo | Tokio
-
-#### ☁️ **DevOps & Others**
-
-* Docker | Docker Compose | GitHub Actions
-* AWS ECS | S3 | SES | SQS
-* OpenAI API | LangChain | n8n
+**☁️ DevOps & AI** — Docker · Docker Compose · GitHub Actions · AWS (ECS, S3, SES, SQS) · OpenAI API · LangChain · n8n
 
 ---
 
-[![PyPI Profile](https://img.shields.io/badge/PyPI-Perfil%20RobertoLima-blue)](https://pypi.org/user/robertolima_dev/)
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertolima-dev&show_icons=true&hide_border=true&theme=tokyonight)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robertolima-dev&layout=compact&hide_border=true&theme=tokyonight)
+
+![GitHub streak](https://streak-stats.demolab.com/?user=robertolima-dev&hide_border=true&theme=tokyonight)
+
+</div>
+
+---
+
+### 📫 Contact
+
+- 🌐 [Website](https://robertolima.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/roberto-lima-01/)
+- ✉️ [robertolima.izphera@gmail.com](mailto:robertolima.izphera@gmail.com)
 
 ---
 
 ## 📚 Português
-- 🇧🇷 [Clique aqui](README.pt-br.md)
-
+🇧🇷 [Clique aqui para a versão em português](README.pt-br.md)
