@@ -7,6 +7,7 @@
 [![Website](https://img.shields.io/badge/Website-robertolima.vercel.app-FF6900?logo=vercel&logoColor=white)](https://robertolima.vercel.app/)
 [![PyPI](https://img.shields.io/badge/PyPI-robertolima__dev-3775A9?logo=pypi&logoColor=white)](https://pypi.org/user/robertolima_dev/)
 [![npm](https://img.shields.io/badge/npm-robertolima--dev-CB3837?logo=npm&logoColor=white)](https://www.npmjs.com/~robertolima-dev)
+[![crates.io](https://img.shields.io/badge/crates.io-robertolima--dev-E6B14C?logo=rust&logoColor=white)](https://crates.io/users/robertolima-dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-roberto--lima-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-lima-01/)
 [![Email](https://img.shields.io/badge/Email-contato-EA4335?logo=gmail&logoColor=white)](mailto:robertolima.izphera@gmail.com)
 ![Visualizações](https://komarev.com/ghpvc/?username=robertolima-dev&color=9747ff&label=Visualiza%C3%A7%C3%B5es)
@@ -62,7 +63,21 @@ Um **banco de dados chave-valor em memória escrito em Rust**, com fins educacio
 
 ### 📦 Pacotes Open-Source
 
-**23 pacotes** publicados no [PyPI](https://pypi.org/user/robertolima_dev/) e no [npm](https://www.npmjs.com/~robertolima-dev) — de cores em Rust de alta performance a utilitários do dia a dia. Contribuições, issues e sugestões são sempre bem-vindas!
+**32 pacotes** publicados no [crates.io](https://crates.io/users/robertolima-dev), no [PyPI](https://pypi.org/user/robertolima_dev/) e no [npm](https://www.npmjs.com/~robertolima-dev) — de um framework backend completo em Rust e cores em Rust de alta performance a utilitários do dia a dia. Contribuições, issues e sugestões são sempre bem-vindas!
+
+#### 🦀 Rust nativo · crates.io <sub>(o framework backend Gizé)</sub>
+
+| Crate | Descrição | Versão · Downloads |
+|:--|:--|:--|
+| **[gize](https://crates.io/crates/gize)** | CLI do Gizé — framework backend focado em produtividade para Rust | ![v](https://img.shields.io/crates/v/gize?style=flat-square&color=E6B14C) ![dl](https://img.shields.io/crates/d/gize?style=flat-square) |
+| **[gize-core](https://crates.io/crates/gize-core)** | Modelo de domínio, convenções e manifesto do core | ![v](https://img.shields.io/crates/v/gize-core?style=flat-square&color=E6B14C) ![dl](https://img.shields.io/crates/d/gize-core?style=flat-square) |
+| **[gize-generator](https://crates.io/crates/gize-generator)** | Motor de geração de código — escrita segura & templating | ![v](https://img.shields.io/crates/v/gize-generator?style=flat-square&color=E6B14C) ![dl](https://img.shields.io/crates/d/gize-generator?style=flat-square) |
+| **[gize-db](https://crates.io/crates/gize-db)** | Convenções da camada de dados e migrations com SQLx | ![v](https://img.shields.io/crates/v/gize-db?style=flat-square&color=E6B14C) ![dl](https://img.shields.io/crates/d/gize-db?style=flat-square) |
+| **[gize-macros](https://crates.io/crates/gize-macros)** | Macros procedurais, mantidas propositalmente enxutas | ![v](https://img.shields.io/crates/v/gize-macros?style=flat-square&color=E6B14C) ![dl](https://img.shields.io/crates/d/gize-macros?style=flat-square) |
+| **[gize-openapi](https://crates.io/crates/gize-openapi)** | Geração de especificação OpenAPI | ![v](https://img.shields.io/crates/v/gize-openapi?style=flat-square&color=E6B14C) ![dl](https://img.shields.io/crates/d/gize-openapi?style=flat-square) |
+| **[gize-admin](https://crates.io/crates/gize-admin)** | Gerador de UI admin — uma SPA React a partir do manifesto | ![v](https://img.shields.io/crates/v/gize-admin?style=flat-square&color=E6B14C) ![dl](https://img.shields.io/crates/d/gize-admin?style=flat-square) |
+| **[gize-templates](https://crates.io/crates/gize-templates)** | Templates do código gerado pelo Gizé | ![v](https://img.shields.io/crates/v/gize-templates?style=flat-square&color=E6B14C) ![dl](https://img.shields.io/crates/d/gize-templates?style=flat-square) |
+| **[gize-testing](https://crates.io/crates/gize-testing)** | Utilitários de teste para apps gerados pelo Gizé | ![v](https://img.shields.io/crates/v/gize-testing?style=flat-square&color=E6B14C) ![dl](https://img.shields.io/crates/d/gize-testing?style=flat-square) |
 
 #### 🦀 Powered by Rust · PyPI <sub>(PyO3 + maturin)</sub>
 
