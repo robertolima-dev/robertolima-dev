@@ -35,6 +35,18 @@ A private, permissioned **cryptographic ledger** that turns ordinary system logs
 
 > *"Your logs explain what happened. ImmutableLog proves it."*
 
+#### 🏛️ [Gizé](https://gize-rust-framework.vercel.app/en) — *Creator*
+A **productivity-focused backend framework for Rust** that removes the "day-one tax" of standing up a real-world backend — scaffolding, conventions and code generation so you ship REST APIs in minutes, not days.
+
+- 🏗️ **Project scaffolding** — production-ready structure with routing, database pooling and error handling out of the box
+- ⚙️ **CRUD generation** — models, migrations, repositories, services, DTOs, handlers, routes and tests from a single command
+- 🗄️ **Multi-database** — works with PostgreSQL, SQLite and MySQL
+- 🔍 **Transparent codegen** — all generated code is readable, idiomatic Rust that you fully own and can edit
+- 🔋 **Optional batteries** — admin interface, authentication, WebSockets and OpenAPI docs as opt-in modules
+- 🦀 **Built in Rust** — Axum + SQLx + Tokio, a 10-crate modular workspace (2024 edition)
+
+> *"Batteries-included velocity, the Rust way."*
+
 #### 🦀 [Memorust](https://memorust.vercel.app/en/) — *Creator*
 An educational, in-memory **key-value database written in Rust** — a Redis clone built from scratch with a focus on clean, readable code.
 
