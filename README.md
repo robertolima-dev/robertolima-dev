@@ -25,16 +25,17 @@ Software developer with **12+ years of experience** across Python, Rust, JavaScr
 ### 🏗️ Products I Build
 
 #### 🔐 [ImmutableLog](https://immutablelog.com/en/) — *Founder*
-A private, permissioned **cryptographic ledger** that turns ordinary system logs into tamper-evident, independently verifiable evidence. The **Audit Evidence Layer** for teams that need to *prove* what happened — not just describe it.
+A **security, audit and event observability platform** built on a private, permissioned **cryptographic ledger** — a SIEM whose events are tamper-evident and independently verifiable. *Observe · Detect · Audit · Prove*: the same event flows through observability, detection, audit and cryptographic proof, in a single pipeline.
 
-- 📜 **Append-only ledger** — events can't be edited or deleted once recorded
-- 🔏 **Cryptographic proof** — deterministic hashing + inclusion verification on every event
-- 🕵️ **Independent verification** — third parties can verify records without trusting the operator
-- 🏢 **Private by design** — data stays in your environment, no public blockchain
-- ⚙️ **Built in Rust** — distributed consensus across cluster nodes; REST API with SDKs for Node.js, Python, Go and Java
-- 🎯 **Use cases** — AI governance, SOC 2, ISO 27001, LGPD, insider-threat detection and legal defensibility
+- 👁️ **Observability** — logs & events, errors, services, environments, endpoints, timeline, search & filters
+- 🚨 **Detection** — brute force, suspicious IPs, new country, unusual admin/root activity, 401/403 and error spikes, threat intelligence
+- 📋 **Audit trail** — actor, action, resource, timestamp, source IP, service, request ID, timeline and CSV export
+- 🔏 **Cryptographic proof** — SHA-256 hash chain, Merkle proof of inclusion and integrity verification on every event
+- 🏢 **Private by design** — permissioned ledger with multi-node Proof of Authority consensus, in your environment, no public blockchain
+- ⚙️ **Built in Rust** — ECS normalization, host agent (zero code) and SDKs for Node.js, Python, Go and Java
+- 🎯 **Compliance** — SOC 2, ISO 27001, LGPD, PCI DSS 10.5, NIST 800-53 AU-9, EU AI Act, ISO 42001
 
-> *"Your logs explain what happened. ImmutableLog proves it."*
+> *"Know what happened. Detect what matters. Prove what happened."*
 
 #### 🏛️ [Gizé](https://gize-rust-framework.vercel.app/en) — *Creator*
 A **productivity-focused backend framework for Rust** that removes the "day-one tax" of standing up a real-world backend — scaffolding, conventions and code generation so you ship REST APIs in minutes, not days.

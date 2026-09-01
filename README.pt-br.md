@@ -25,16 +25,17 @@ Desenvolvedor de software com **mais de 12 anos de experiência** em Python, Rus
 ### 🏗️ Produtos que Construo
 
 #### 🔐 [ImmutableLog](https://immutablelog.com/en/) — *Fundador*
-Um **ledger criptográfico** privado e permissionado que transforma logs comuns de sistema em evidências invioláveis e verificáveis de forma independente. A **camada de evidência de auditoria** para times que precisam *provar* o que aconteceu — não apenas descrever.
+Uma **plataforma de segurança, auditoria e observabilidade de eventos** construída sobre um **ledger criptográfico** privado e permissionado — um SIEM cujos eventos são invioláveis e verificáveis de forma independente. *Observar · Detectar · Auditar · Provar*: o mesmo evento passa por observabilidade, detecção, auditoria e prova criptográfica, num único pipeline.
 
-- 📜 **Ledger append-only** — eventos não podem ser editados ou apagados depois de registrados
-- 🔏 **Prova criptográfica** — hashing determinístico + verificação de inclusão em cada evento
-- 🕵️ **Verificação independente** — terceiros podem validar os registros sem confiar no operador
-- 🏢 **Privado por design** — os dados ficam no seu ambiente, sem blockchain pública
-- ⚙️ **Feito em Rust** — consenso distribuído entre nós do cluster; API REST com SDKs para Node.js, Python, Go e Java
-- 🎯 **Casos de uso** — governança de IA, SOC 2, ISO 27001, LGPD, detecção de ameaças internas e defesa jurídica
+- 👁️ **Observabilidade** — logs & eventos, erros, serviços, ambientes, endpoints, timeline, busca & filtros
+- 🚨 **Detecção** — brute force, IPs suspeitos, novo país, atividade admin/root incomum, picos de 401/403 e de erros, threat intelligence
+- 📋 **Trilha de auditoria** — ator, ação, recurso, timestamp, IP de origem, serviço, request ID, timeline e exportação CSV
+- 🔏 **Prova criptográfica** — hash chain SHA-256, Merkle proof de inclusão e verificação de integridade em cada evento
+- 🏢 **Privado por design** — ledger permissionado com consenso Proof of Authority multi-nó, no seu ambiente, sem blockchain pública
+- ⚙️ **Feito em Rust** — normalização ECS, agente de host (sem código) e SDKs para Node.js, Python, Go e Java
+- 🎯 **Conformidade** — SOC 2, ISO 27001, LGPD, PCI DSS 10.5, NIST 800-53 AU-9, EU AI Act, ISO 42001
 
-> *"Seus logs explicam o que aconteceu. O ImmutableLog prova."*
+> *"Saiba o que aconteceu. Detecte o que importa. Prove o que aconteceu."*
 
 #### 🏛️ [Gizé](https://gize-rust-framework.vercel.app/en) — *Criador*
 Um **framework backend focado em produtividade para Rust** que elimina o "imposto do dia um" ao subir um backend de verdade — scaffolding, convenções e geração de código para você entregar APIs REST em minutos, não em dias.
